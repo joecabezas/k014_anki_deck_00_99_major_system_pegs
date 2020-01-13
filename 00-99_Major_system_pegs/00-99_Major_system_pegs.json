@@ -1,0 +1,1416 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "8cc79fce-35d9-11ea-bf79-305a3a05e8e9",
+    "deck_config_uuid": "8cc79fcf-35d9-11ea-9a85-305a3a05e8e9",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "autoplay": true,
+            "crowdanki_uuid": "8cc79fcf-35d9-11ea-9a85-305a3a05e8e9",
+            "dyn": false,
+            "lapse": {
+                "delays": [
+                    10
+                ],
+                "leechAction": 0,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1,
+                    10
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    7
+                ],
+                "order": 1,
+                "perDay": 20,
+                "separate": true
+            },
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "fuzz": 0.05,
+                "hardFactor": 1.2,
+                "ivlFct": 1,
+                "maxIvl": 36500,
+                "minSpace": 1,
+                "perDay": 200
+            },
+            "timer": 0
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 10,
+    "extendRev": 50,
+    "media_files": [],
+    "mid": "1544964767103",
+    "name": "00-99 Major system pegs",
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "css": ".card {\n font-family: arial;\n font-size: 20px;\n text-align: center;\n color: black;\n background-color: white;\n}\n",
+            "flds": [
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Front",
+                    "ord": 0,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                },
+                {
+                    "font": "Arial",
+                    "media": [],
+                    "name": "Back",
+                    "ord": 1,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "name": "Basic",
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": [],
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bqfmt": "",
+                    "did": null,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0,
+            "vers": []
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "02",
+                "sun"
+            ],
+            "flags": 0,
+            "guid": "NuAl(wz<6`",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "00",
+                "seesaw"
+            ],
+            "flags": 0,
+            "guid": "a1",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "01",
+                "sit, seed, soda"
+            ],
+            "flags": 0,
+            "guid": "a2",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "03",
+                "sumo, suma"
+            ],
+            "flags": 0,
+            "guid": "a3",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "04",
+                "sierra, SAR"
+            ],
+            "flags": 0,
+            "guid": "J=5/paeCcI",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "05",
+                "soil, sol"
+            ],
+            "flags": 0,
+            "guid": "GC5aYVC:ci",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "06",
+                "sasha, soya, sushi<br>"
+            ],
+            "flags": 0,
+            "guid": "FRbj$J&@gN",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "07",
+                "suck, seek, sky"
+            ],
+            "flags": 0,
+            "guid": "vn*Q|7!5+1",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "08",
+                "sofa"
+            ],
+            "flags": 0,
+            "guid": "JaHo@L7)@(",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "09",
+                "soap, soup, sopa"
+            ],
+            "flags": 0,
+            "guid": "I-N6.}?=i9",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "10",
+                "toes, dice, tazo"
+            ],
+            "flags": 0,
+            "guid": "f]OW.Ly)2j",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "11",
+                "tit, teta, tata"
+            ],
+            "flags": 0,
+            "guid": "bgCOkt:u3l",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "12",
+                "tin, tone, tony"
+            ],
+            "flags": 0,
+            "guid": "HL5G_,6YcG",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "13",
+                "tom, tomo, domo"
+            ],
+            "flags": 0,
+            "guid": "mZYw`o2O-y",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "14",
+                "door, tire, toro"
+            ],
+            "flags": 0,
+            "guid": "k?-Rl>?hX=",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "15",
+                "tail, doll"
+            ],
+            "flags": 0,
+            "guid": "sUTObv7A_Q",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "16",
+                "dish, dash"
+            ],
+            "flags": 0,
+            "guid": "n:ZFc}0,|6",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "17",
+                "duck, toco, taco"
+            ],
+            "flags": 0,
+            "guid": "w0JR9D:h;/",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "18",
+                "deaf, dove"
+            ],
+            "flags": 0,
+            "guid": "jTN5TP%[;?",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "19",
+                "tuba, tapa, topo"
+            ],
+            "flags": 0,
+            "guid": "Hsv[zCS%cS",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "20",
+                "nasa, nose"
+            ],
+            "flags": 0,
+            "guid": "vXg^oC$Rwm",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "21",
+                "nada, net"
+            ],
+            "flags": 0,
+            "guid": "AS]1kxYRd=",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "22",
+                "nana, nun"
+            ],
+            "flags": 0,
+            "guid": "v|X=gXB]D]",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "23",
+                "nami, nemo"
+            ],
+            "flags": 0,
+            "guid": "P(+_j49UiZ",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "24",
+                "near, narrow"
+            ],
+            "flags": 0,
+            "guid": "sQn+zH7+MS",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "25",
+                "nail, nilo"
+            ],
+            "flags": 0,
+            "guid": "eTBQ/E}XTY",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "26",
+                "nacho"
+            ],
+            "flags": 0,
+            "guid": "z[Jdb@I7]%",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "27",
+                "neck, nook"
+            ],
+            "flags": 0,
+            "guid": "r&yEfl`BGp",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "28",
+                "knife, navi"
+            ],
+            "flags": 0,
+            "guid": "hdh@}%/D8b",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "29",
+                "noob, napa"
+            ],
+            "flags": 0,
+            "guid": "FGFQ^L%2b_",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "30",
+                "mouse, maze, mazo"
+            ],
+            "flags": 0,
+            "guid": "IA[1P=8?s:",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "31",
+                "mat, mata, moto"
+            ],
+            "flags": 0,
+            "guid": "b+7q3lSF1.",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "32",
+                "moon, mano, mono"
+            ],
+            "flags": 0,
+            "guid": "zT0wPE/ESo",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "33",
+                "mama, mummy, mimo"
+            ],
+            "flags": 0,
+            "guid": "k1pRlLq`l!",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "34",
+                "more, morro, mar"
+            ],
+            "flags": 0,
+            "guid": "B*(T/Du9I&",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "35",
+                "mule, mal, malo, milo"
+            ],
+            "flags": 0,
+            "guid": "p;{K#&IeeV",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "36",
+                "mesh, maya"
+            ],
+            "flags": 0,
+            "guid": "bQnPNgXjED",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "37",
+                "mug, mic, moco"
+            ],
+            "flags": 0,
+            "guid": "9HCn*:4nA",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "38",
+                "movie, move"
+            ],
+            "flags": 0,
+            "guid": "vNM4/Y;d}H",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "39",
+                "map, mop"
+            ],
+            "flags": 0,
+            "guid": "NX>y~_K5C@",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "40",
+                "race, rice"
+            ],
+            "flags": 0,
+            "guid": "D`Eqa4D|p8",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "41",
+                "rat, root"
+            ],
+            "flags": 0,
+            "guid": "GDDU^~,ep_",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "42",
+                "rain, rana, reno"
+            ],
+            "flags": 0,
+            "guid": "HDRb74,1v?",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "43",
+                "rome, rima"
+            ],
+            "flags": 0,
+            "guid": "n?6T@.w]_#",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "44",
+                "rare, raro"
+            ],
+            "flags": 0,
+            "guid": "g6-BU_--+o",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "45",
+                "rail"
+            ],
+            "flags": 0,
+            "guid": "bD^~$Tm=zO",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "46",
+                "roach, rich"
+            ],
+            "flags": 0,
+            "guid": "sH=jb})C=J",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "47",
+                "rug, rico"
+            ],
+            "flags": 0,
+            "guid": "u3(ry1g!YS",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "48",
+                "roof, rifa, rafa"
+            ],
+            "flags": 0,
+            "guid": "NcI`;Y@tpp",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "49",
+                "rope, ropa"
+            ],
+            "flags": 0,
+            "guid": "H,)|QC<w<|",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "50",
+                "lazo, liso, lays"
+            ],
+            "flags": 0,
+            "guid": "J+:<}Fzp0q",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "51",
+                "light, latte, lata"
+            ],
+            "flags": 0,
+            "guid": "uvQX,M/W<{",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "52",
+                "lion, lana"
+            ],
+            "flags": 0,
+            "guid": "l{EXq3c}(Q",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "53",
+                "lime, lame"
+            ],
+            "flags": 0,
+            "guid": "w~/Na&`rbi",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "54",
+                "loro, lair"
+            ],
+            "flags": 0,
+            "guid": "e8uKp+9t&]",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "55",
+                "lolo, lulu, lily"
+            ],
+            "flags": 0,
+            "guid": "zz/ANR=tUi",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "56",
+                "leash, lucha, leche"
+            ],
+            "flags": 0,
+            "guid": "qxY(D9/9W$",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "57",
+                "lock, loco"
+            ],
+            "flags": 0,
+            "guid": "j[kE=j]Or-",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "58",
+                "leaf"
+            ],
+            "flags": 0,
+            "guid": "tBUm#7$r>e",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "59",
+                "leap, lapiz, lipo"
+            ],
+            "flags": 0,
+            "guid": "5N_FEdb^t",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "60",
+                "cheese, chuzo, chuza"
+            ],
+            "flags": 0,
+            "guid": "e=ZGXiTX)}",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "61",
+                "shit, choto, chota"
+            ],
+            "flags": 0,
+            "guid": "xm4Q-fBA;1",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "62",
+                "jean, china, chana"
+            ],
+            "flags": 0,
+            "guid": "OLR@/RI|9K",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "63",
+                "jam, gem"
+            ],
+            "flags": 0,
+            "guid": "g&ZG,JwJxC",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "64",
+                "jerry, cherry, chair"
+            ],
+            "flags": 0,
+            "guid": "y]IL(UuNf[",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "65",
+                "jail, chello, jello"
+            ],
+            "flags": 0,
+            "guid": "wi-&RQ^Tgc",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "66",
+                "chacha, jojo"
+            ],
+            "flags": 0,
+            "guid": "gYOdcv;m(i",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "67",
+                "chick, jack, jackie"
+            ],
+            "flags": 0,
+            "guid": "hs$plw}K@W",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "68",
+                "chef"
+            ],
+            "flags": 0,
+            "guid": "vN*Rz+~(j<",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "69",
+                "ship, jeep, cheap"
+            ],
+            "flags": 0,
+            "guid": "va*[iMUp@n",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "70",
+                "case, gas, casa"
+            ],
+            "flags": 0,
+            "guid": "rm3@7}IHVH",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "71",
+                "cat"
+            ],
+            "flags": 0,
+            "guid": "bR@?xkWj[T",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "72",
+                "can, canoe"
+            ],
+            "flags": 0,
+            "guid": "wux?|.QSmh",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "73",
+                "cam, cum, come"
+            ],
+            "flags": 0,
+            "guid": "C*1oouVZWM",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "74",
+                "car"
+            ],
+            "flags": 0,
+            "guid": "bOspLa,J%$",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "75",
+                "coal, goal"
+            ],
+            "flags": 0,
+            "guid": "p7=Sr[C}~%",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "76",
+                "cash, cage"
+            ],
+            "flags": 0,
+            "guid": "eft8kEMZ}",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "77",
+                "cake, caca"
+            ],
+            "flags": 0,
+            "guid": "E+GS`n0~7_",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "78",
+                "coffee, cafe, cave"
+            ],
+            "flags": 0,
+            "guid": "cZAldeHEW*",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "79",
+                "cape, capa, kappa"
+            ],
+            "flags": 0,
+            "guid": "jQU+4D?076",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "80",
+                "face, vase"
+            ],
+            "flags": 0,
+            "guid": "Ex.*H:r?Z<",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "81",
+                "fat, video"
+            ],
+            "flags": 0,
+            "guid": "f:Ai?7#O0D",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "82",
+                "fan, phone"
+            ],
+            "flags": 0,
+            "guid": "L!*7Y[Xg~~",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "83",
+                "foam, fome"
+            ],
+            "flags": 0,
+            "guid": "qv^9@]Dn#A",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "84",
+                "fairy, fur, fear"
+            ],
+            "flags": 0,
+            "guid": "s*Xb;uY<YM",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "85",
+                "fly, fail, file"
+            ],
+            "flags": 0,
+            "guid": "N#8RZCj=hg",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "86",
+                "fish"
+            ],
+            "flags": 0,
+            "guid": "n<7;^`!7VN",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "87",
+                "fuck"
+            ],
+            "flags": 0,
+            "guid": "C,f}4u)l-#",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "88",
+                "vive, FIFO"
+            ],
+            "flags": 0,
+            "guid": "MQVYDo?mR2",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "89",
+                "fap"
+            ],
+            "flags": 0,
+            "guid": "B0&whq;p#{",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "90",
+                "boss, bus, vaso"
+            ],
+            "flags": 0,
+            "guid": "H}&3TmBQmD",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "91",
+                "pet, bat, pod"
+            ],
+            "flags": 0,
+            "guid": "ob@uv]Ma%",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "92",
+                "pan, pene"
+            ],
+            "flags": 0,
+            "guid": "z0oGGoWLn/",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "93",
+                "boom, puma"
+            ],
+            "flags": 0,
+            "guid": "nja8jeb^7d",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "94",
+                "pear, burro"
+            ],
+            "flags": 0,
+            "guid": "v-M1$?xkjU",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "95",
+                "apple, palo"
+            ],
+            "flags": 0,
+            "guid": "IFS:K2dO@S",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "96",
+                "beach, bicho"
+            ],
+            "flags": 0,
+            "guid": "kzLh3$8F;r",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "97",
+                "pika, pig"
+            ],
+            "flags": 0,
+            "guid": "z?1l%I5Tku",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "98",
+                "puff, beef"
+            ],
+            "flags": 0,
+            "guid": "Dn,c~eh_sw",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "99",
+                "papa, boob"
+            ],
+            "flags": 0,
+            "guid": "flW~#1w[;i",
+            "newlyAdded": false,
+            "note_model_uuid": "8cc79fd2-35d9-11ea-8d0d-305a3a05e8e9",
+            "tags": []
+        }
+    ]
+}
