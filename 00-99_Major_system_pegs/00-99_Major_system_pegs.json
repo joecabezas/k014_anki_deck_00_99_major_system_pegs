@@ -7,7 +7,7 @@
         {
             "__type__": "DeckConfig",
             "autoplay": true,
-            "crowdanki_uuid": "8cc79fcf-35d9-11ea-9a85-305a3a05e8e9",
+            "crowdanki_uuid": "27c3f83b-369c-11ea-beca-305a3a05e8e9",
             "dyn": false,
             "lapse": {
                 "delays": [
@@ -377,7 +377,7 @@
             "data": "",
             "fields": [
                 "20",
-                "nasa, nose"
+                "nasa, nose, nice"
             ],
             "flags": 0,
             "guid": "vXg^oC$Rwm",
@@ -468,7 +468,7 @@
             "data": "",
             "fields": [
                 "27",
-                "neck, nook"
+                "neck, nook, nike"
             ],
             "flags": 0,
             "guid": "r&yEfl`BGp",
@@ -494,7 +494,7 @@
             "data": "",
             "fields": [
                 "29",
-                "noob, napa"
+                "noob, nap"
             ],
             "flags": 0,
             "guid": "FGFQ^L%2b_",
