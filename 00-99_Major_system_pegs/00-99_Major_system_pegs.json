@@ -117,7 +117,7 @@
             "data": "",
             "fields": [
                 "02",
-                "sun"
+                "sun, sony"
             ],
             "flags": 0,
             "guid": "NuAl(wz<6`",
@@ -182,7 +182,7 @@
             "data": "",
             "fields": [
                 "05",
-                "soil, sol"
+                "soil, sol, silo"
             ],
             "flags": 0,
             "guid": "GC5aYVC:ci",
@@ -234,7 +234,7 @@
             "data": "",
             "fields": [
                 "09",
-                "soap, soup, sopa"
+                "soap, soup, sopa, sapo"
             ],
             "flags": 0,
             "guid": "I-N6.}?=i9",
@@ -572,7 +572,7 @@
             "data": "",
             "fields": [
                 "35",
-                "mule, mal, malo, milo"
+                "mail, mal, malo, milo"
             ],
             "flags": 0,
             "guid": "p;{K#&IeeV",
@@ -585,7 +585,7 @@
             "data": "",
             "fields": [
                 "36",
-                "mesh, maya"
+                "mesh, maya, mage"
             ],
             "flags": 0,
             "guid": "bQnPNgXjED",
@@ -598,7 +598,7 @@
             "data": "",
             "fields": [
                 "37",
-                "mug, mic, moco"
+                "maca, mic, moco"
             ],
             "flags": 0,
             "guid": "9HCn*:4nA",
@@ -676,7 +676,7 @@
             "data": "",
             "fields": [
                 "43",
-                "rome, rama"
+                "rome, rama, remo"
             ],
             "flags": 0,
             "guid": "n?6T@.w]_#",
@@ -715,7 +715,7 @@
             "data": "",
             "fields": [
                 "46",
-                "roach, rich"
+                "roach, rich, rage"
             ],
             "flags": 0,
             "guid": "sH=jb})C=J",
@@ -858,7 +858,7 @@
             "data": "",
             "fields": [
                 "57",
-                "lock, lick, luka"
+                "lock, lick, luka, like"
             ],
             "flags": 0,
             "guid": "j[kE=j]Or-",
@@ -871,7 +871,7 @@
             "data": "",
             "fields": [
                 "58",
-                "leaf"
+                "leaf, leave"
             ],
             "flags": 0,
             "guid": "tBUm#7$r>e",
@@ -884,7 +884,7 @@
             "data": "",
             "fields": [
                 "59",
-                "leap, lapiz, lipo"
+                "leap, lapa, lipo"
             ],
             "flags": 0,
             "guid": "5N_FEdb^t",
@@ -949,7 +949,7 @@
             "data": "",
             "fields": [
                 "64",
-                "jerry, cherry, chair"
+                "jerry, cherry, chair, yiro"
             ],
             "flags": 0,
             "guid": "y]IL(UuNf[",
@@ -988,7 +988,7 @@
             "data": "",
             "fields": [
                 "67",
-                "chick, jackie, shake"
+                "sheik, jackie, shake"
             ],
             "flags": 0,
             "guid": "hs$plw}K@W",
@@ -1014,7 +1014,7 @@
             "data": "",
             "fields": [
                 "69",
-                "ship, jeep, cheap"
+                "ship, jeep, cheap, chip"
             ],
             "flags": 0,
             "guid": "va*[iMUp@n",
@@ -1066,7 +1066,7 @@
             "data": "",
             "fields": [
                 "73",
-                "cam, cum, come"
+                "cam, cum, come, cama"
             ],
             "flags": 0,
             "guid": "C*1oouVZWM",
@@ -1092,7 +1092,7 @@
             "data": "",
             "fields": [
                 "75",
-                "coal, goal"
+                "coal, goal, cola"
             ],
             "flags": 0,
             "guid": "p7=Sr[C}~%",
@@ -1183,7 +1183,7 @@
             "data": "",
             "fields": [
                 "82",
-                "fan, phone"
+                "fan, phone, funny"
             ],
             "flags": 0,
             "guid": "L!*7Y[Xg~~",
@@ -1209,7 +1209,7 @@
             "data": "",
             "fields": [
                 "84",
-                "fairy, fur, fear"
+                "fairy, fur, fear, furry"
             ],
             "flags": 0,
             "guid": "s*Xb;uY<YM",
@@ -1261,7 +1261,7 @@
             "data": "",
             "fields": [
                 "88",
-                "vive, FIFO"
+                "vive, FIFO, fofo"
             ],
             "flags": 0,
             "guid": "MQVYDo?mR2",
@@ -1287,7 +1287,7 @@
             "data": "",
             "fields": [
                 "90",
-                "boss, bus, vaso"
+                "boss, bus, vaso, pozo"
             ],
             "flags": 0,
             "guid": "H}&3TmBQmD",
@@ -1300,7 +1300,7 @@
             "data": "",
             "fields": [
                 "91",
-                "pet, bat, pod"
+                "pet, bat, pod, poto"
             ],
             "flags": 0,
             "guid": "ob@uv]Ma%",
@@ -1313,7 +1313,7 @@
             "data": "",
             "fields": [
                 "92",
-                "pan, pene"
+                "pan, pene, pony, piano"
             ],
             "flags": 0,
             "guid": "z0oGGoWLn/",
@@ -1365,7 +1365,7 @@
             "data": "",
             "fields": [
                 "96",
-                "beach, bicho"
+                "peach, beach, bicho"
             ],
             "flags": 0,
             "guid": "kzLh3$8F;r",
